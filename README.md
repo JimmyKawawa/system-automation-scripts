@@ -9,13 +9,13 @@
   * online
 
     ```base
-    bash <(wget -qO- https://raw.githubusercontent.com/zxcvos/system-automation-scripts/main/update-kernel.sh)
+    bash <(wget -qO- https://raw.githubusercontent.com/JimmyKawawa/system-automation-scripts/main/update-kernel.sh)
     ```
 
   * download
 
     ```base
-    wget -O update-kernel.sh https://raw.githubusercontent.com/zxcvos/system-automation-scripts/main/update-kernel.sh
+    wget -O update-kernel.sh https://raw.githubusercontent.com//system-automation-scripts/main/update-kernel.sh
     bash update-kernel.sh
     ```
 
@@ -35,13 +35,13 @@
   * online
 
     ```base
-    bash <(wget -qO- https://raw.githubusercontent.com/zxcvos/system-automation-scripts/main/remove-kernel.sh)
+    bash <(wget -qO- https://raw.githubusercontent.com/JimmyKawawa/system-automation-scripts/main/remove-kernel.sh)
     ```
 
   * download
 
     ```base
-    wget -O remove-kernel.sh https://raw.githubusercontent.com/zxcvos/system-automation-scripts/main/remove-kernel.sh
+    wget -O remove-kernel.sh https://raw.githubusercontent.com/JimmyKawawa/system-automation-scripts/main/remove-kernel.sh
     bash remove-kernel.sh
     ```
 
