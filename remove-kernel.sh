@@ -127,7 +127,7 @@ echo " Kernel  : $kern"
 echo "----------------------------------------"
 echo " Script to remove extra kernels"
 echo
-echo " URL: https://github.com/zxcvos/system-automation-scripts/blob/main/remove-kernel.sh"
+echo " URL: https://github.com/JimmyKawawa/system-automation-scripts/blob/main/remove-kernel.sh"
 echo "----------------------------------------"
 echo
 _warn "Please do not use this script in a production environment."
