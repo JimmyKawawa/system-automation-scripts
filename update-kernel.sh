@@ -399,7 +399,7 @@ echo " Kernel  : $kern"
 echo "----------------------------------------"
 echo " Script to update Linux kernel to the latest version"
 echo
-echo " URL: https://github.com/zxcvos/system-automation-scripts/blob/main/update-kernel.sh"
+echo " URL: https://github.com/JimmyKawawa/system-automation-scripts/blob/main/update-kernel.sh"
 echo "----------------------------------------"
 echo
 echo "Press any key to start...or Press Ctrl+C to cancel"
